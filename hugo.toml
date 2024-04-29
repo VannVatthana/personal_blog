@@ -1,4 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://vannvatthana.github.io/personal_blog'
 languageCode = 'en-us'
 title = 'Personal Blog'
 theme = 'blowfish'
+publishDir = 'docs'
